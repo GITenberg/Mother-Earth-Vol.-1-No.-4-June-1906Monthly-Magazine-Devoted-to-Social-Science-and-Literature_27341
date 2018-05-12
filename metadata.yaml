@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/840
     wikipedia: http://en.wikipedia.org/wiki/Emma_Goldman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27341#Mother-Earth-Vol.-1-No.-4-June-1906Monthly-Magazine-Devoted-to-Social-Science-and-Literature
 gutenberg_bookshelf:
 - Mother Earth
 - Anarchism
